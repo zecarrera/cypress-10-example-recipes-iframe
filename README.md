@@ -4,6 +4,7 @@ Cypress example using iframe specs from (https://github.com/cypress-io/cypress-e
 
 ## How to run
 `npm install`
+
 `npm run cypress:open`
 
 Tests will fail only when running with safari webkit.
