@@ -12,6 +12,7 @@
   "devDependencies": {
     "@cypress/skip-test": "^2.6.1",
     "cypress": "^10.9.0",
+    "cypress-iframe": "^1.0.1",
     "playwright-webkit": "^1.27.0"
   }
 }
