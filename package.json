@@ -1,0 +1,17 @@
+{
+  "name": "cypress-10-example-recipes-iframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/skip-test": "^2.6.1",
+    "cypress": "^10.9.0",
+    "playwright-webkit": "^1.27.0"
+  }
+}
